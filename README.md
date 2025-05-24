@@ -16,7 +16,7 @@ Contoh:
 > "Kakak ingin dibuatkan program kalkulator IPK sederhana."
 
 ## Penjelasan Program
-- Bahasa pemrograman yang digunakan: C
+- Bahasa pemrograman yang digunakan: 
 - Fitur utama:
 - Input data nilai
 - Perhitungan otomatis
